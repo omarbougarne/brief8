@@ -34,6 +34,9 @@ $products = $productDAO->get_product();
         <li class="nav-item">
                 <a class="nav-link" href="addproductoop.php">Add Product</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="update_product.php">Update Product</a>
+            </li>
       </ul>
     </div>
   </nav>
